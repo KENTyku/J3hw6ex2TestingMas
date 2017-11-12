@@ -7,7 +7,7 @@ package j3hw6ex2testingmas;
 
 /**
  *
- * @author user
+ * @author Yuri Tveritin
  */
 public class J3hw6ex2TestingMas {
 
