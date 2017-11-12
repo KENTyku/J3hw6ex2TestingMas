@@ -1,0 +1,6 @@
+/build/
+*.gitignore
+!/.gitignore
+/nbproject/
+*.xml
+*.mf
